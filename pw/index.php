@@ -23,7 +23,7 @@ $buku = query("SELECT * FROM buku");
 
 <body>
   <!-- <h1>PR INSERT UPDATE DELETE</h1> -->
-  <h1 class="text-center">Daftar Buku</h1>
+  <h1 class="text-center">Daftar Buku Informatika UNPAS</h1>
   <br>
   <a href="view/tambah.php" class="btn btn-success mb-2 SBtnTambah">Tambah Buku</a>
   <table class="table table-hover">
