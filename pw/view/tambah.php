@@ -1,3 +1,4 @@
+<!-- menambahkan fungsi Create -->
 <?php
 require '../functions.php';
 if (isset($_POST['tambah'])) {
