@@ -75,6 +75,7 @@ function upload()
   return $nama_file_baru;
 }
 
+// function tambah untuk view tambah.php
 function tambah($data)
 {
   $con = koneksidb();
@@ -99,6 +100,7 @@ function tambah($data)
   return mysqli_affected_rows($con);
 }
 
+// function ubah untuk view ubah.php
 function ubahBuku($data)
 {
   $con = koneksidb();
@@ -132,6 +134,7 @@ function ubahBuku($data)
   return mysqli_affected_rows($con);
 }
 
+// function hapus di folder view hapus.php
 function hapusBuku($id)
 {
   $con = koneksidb();
