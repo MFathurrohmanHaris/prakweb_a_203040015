@@ -1,3 +1,4 @@
+<!-- menambahkan fungsi delete -->
 <?php
 require '../functions.php';
 
