@@ -1,0 +1,43 @@
+- Paradigma Pemrogramman 
+  + Object Oriented Programming
+  + Procedural Programming 
+- Procedural Programming
+  + Instruksi dilakukan langkah demi langkah
+  + Memcah program menjadi bagian bagian kecil
+  + Disebut prosedur, subroutine atau function
+  + Linear / Top-to-Bottom
+  + Fortran, ALGOL, COBOL, Pascal, C, PHP, Javascript
+- Kelebihan Procedural Programming
+  + To-the-point
+  + Simplicity dan kemudahan implementasi (untuk compiler dan Interpreter)
+  + Mudah ditelusuri
+  + Membutuhkan lebih sedikit memory (dibanding dengan OOP)
+- Object Oriented Programming
+  + Menyusun semua kode program dan struktur data sebagai objek
+  + objek adalah unit dasar dari program
+  + Objek menyimpan data dan prilaku
+  + Objek bisa saling berinteraksi
+  + Java, Ruby, Phyton, C++, Javascript, PHP5
+- Kelebihan OOP
+  + Representasi dunia nyata
+  + Enkapsulasi & Abstraksi data
+  + Reusability
+  + Skalabilitas & Ekstensibilitas
+  + Kemudahan pengelolaan
+  + Kolaborasi
+  + Digunakan oleh framework
+- Konsep OOP pada PHP (Basic)
+  + Class & Object
+  + Property & Method
+  + Constructor
+  + Object Type
+  + Inheritance
+  + Visibility/Access Modifier
+  + Setter & Getter
+  + Static Method
+- Konsep OOP pada PHP (Advanced)
+  + Abstract & Interface
+  + Interceptor
+  + Object Cloning
+  + Callbacks & Closures
+  + Namespaces & Autoloading
