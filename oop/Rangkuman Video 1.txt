@@ -1,3 +1,5 @@
+203040015
+Muhammad Fathurrohman Haris
 - Paradigma Pemrogramman 
   + Object Oriented Programming
   + Procedural Programming 

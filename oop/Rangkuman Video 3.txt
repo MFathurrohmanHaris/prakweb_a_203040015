@@ -1,3 +1,5 @@
+203040015
+Muhammad Fathurrohaman Haris
 - Property
   + Merepresentasikan data/keadaan dari sebuah object
   + Variabel yang ada didalam object (member variabel)
