@@ -1,0 +1,43 @@
+- Property
+  + Merepresentasikan data/keadaan dari sebuah object
+  + Variabel yang ada didalam object (member variabel)
+  + Sama seperti variable didalam PHP, ditambah dengan visibility didepannya
+- Method
+  + Merepresentasikan perilaku dari sebuah object
+  + Function yang ada didalam object
+  + Sama seperti function didalam PHP, ditambah dengan visibility didepannya
+- Contoh property method yang melekat dengan mobil
+  + property
+    - nama
+    - merk
+    - warna
+    - kecepatanMaksimal
+    - jumlahPenumpang
+  + Method
+    - tambahKecepatan
+    - kurangiKecepatan
+    - gantiTransmisi
+    - belokKiri
+    - belokKanan
+- Contoh Class Mobil
+<?php 
+class Mobil {
+  public $nama,
+  public $merk,
+  public $warna,
+  public $kecepatanMaksimal,
+  public $jumlahPenumpang;
+
+  public function tambahKecepatan(){
+
+  }
+
+  public function kurangiKecepatan(){
+
+  }
+
+  public function gantiTransmisi(){
+    
+  }
+}
+ ?>
