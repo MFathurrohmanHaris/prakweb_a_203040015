@@ -19,6 +19,7 @@ $buku = query("SELECT * FROM buku");
       margin-left: 75px;
     }
   </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
