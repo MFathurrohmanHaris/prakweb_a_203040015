@@ -1,0 +1,12 @@
+MVC Pola arsitektur pada perancangan perangkat lunak berorientasi objek
+Untuk memisahkan antara tampilan, data dan proses
+
+Model View Controller
+
+MVC
+  - Organisasi dan struktur kode
+  - Pemisahan logic dan tampilan
+  - Perawatan kode
+  - Implenetasi konsep oop yang sudah dipelajari
+  - digunakan oleh banyak web application framework
+contoh framework MVC PHP : CodeIgniter, laravel Yii dll
